@@ -211,7 +211,7 @@ export function App() {
     <div className="flex items-center flex-col text-ls-black bg-gradient-to-b from-[#F9FAFB] to-[#EFF8FF] min-h-[100dvh] dark:from-[#0C111C] dark:to-[#0C111C]">
       <div className="flex flex-col flex-grow gap-4 px-4 pt-6 max-w-[800px] w-full">
         <h1 className="text-2xl text-left">
-          <strong>🦜 LangServe</strong> Playground
+          <strong>🦜 Actable</strong> AI
         </h1>
         <Playground />
       </div>

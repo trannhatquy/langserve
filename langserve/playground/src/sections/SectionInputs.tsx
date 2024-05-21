@@ -20,7 +20,7 @@ export function SectionInputs(props: {
 
   return (
     <div className="flex flex-col gap-3">
-      <h2 className="text-xl font-semibold">Try it</h2>
+      <h2 className="text-xl font-semibold">MB-POC Demo</h2>
 
       <div className="p-4 border border-divider-700 flex flex-col gap-3 rounded-2xl bg-background">
         <div className="flex items-center justify-between">
